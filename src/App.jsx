@@ -1,14 +1,11 @@
-import './App.css'
-import TodoForm from './components/todoForm/TodoForm'
-import TodoItem from './components/todoItem/TodoItem'
+import "./App.css";
+import Todo from "./pages/TodoApp/Todo";
 function App() {
-
-
   return (
     <>
-      <TodoForm />
+      <Todo />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
