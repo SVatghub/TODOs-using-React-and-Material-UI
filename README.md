@@ -9,11 +9,6 @@ Currently, two official plugins are available:
 
 # TODOs-using-React-and-Material-UI
 
-Here is a `README.md` for your Todo application:
-
-````markdown
-# Todo Application
-
 This is a simple Todo application built using React and Material-UI. The app allows users to add, complete, and remove todo items, with data persisted in `localStorage`.
 
 ## Features
