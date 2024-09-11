@@ -25,8 +25,6 @@ This is a simple Todo application built using React and Material-UI. The app all
     └── TodoForm.module.scss
 ```
 
-````
-
 ## Getting Started
 
 Follow these steps to run the Todo application locally.
@@ -111,4 +109,3 @@ This project is licensed under the MIT License.
 
 This README should cover the steps for users to run the application locally and give an overview of its functionality. Let me know if you'd like any adjustments!
 ```
-````
